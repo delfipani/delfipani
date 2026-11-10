@@ -29,7 +29,7 @@ I focus on designing scalable architectures, automating deployments, and ensurin
 
 *   ☁️ **[AWS Network Foundation](https://github.com/delfipani/aws-network-foundation):** Evolution of a manual AWS network infrastructure into Infrastructure as Code (IaC) using Terraform. Implemented secure automated CI workflows with GitHub Actions via OIDC.
 *   🐳 **[Docker-Nginx-Flask Lab](https://github.com/delfipani/docker-nginx-flask-infrastructure):** Reverse proxy and container orchestration lab. Implemented Bash health checks, security hardening (non-root users, hidden server tokens), and declarative Kubernetes manifests.
-*   🎮 **[Counter-Strike-2D (Server)](https://github.com/delfipani/Counter-Strike-2D):** Client-server architecture implementation using Sockets (TCP/UDP) to manage network traffic routing and real-time game state synchronization.
+*   🎮 **[Counter-Strike-2D (Server)](https://github.com/delfipani/CounterStrike2D):** Client-server architecture implementation using Sockets (TCP/UDP) to manage network traffic routing and real-time game state synchronization.
 
 ---
 
